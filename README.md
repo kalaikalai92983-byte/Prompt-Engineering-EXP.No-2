@@ -23,5 +23,4 @@ Your goal is to determine which combination of prompting technique + platform pr
 OUTPUT:
 
 RESULT:
-<img width="912" height="767" alt="image" src="https://github.com/user-attachments/assets/f5d6a734-608a-4e05-a8ec-b3ba18f4a9bc" />
-
+<img width="942" height="798" alt="image" src="https://github.com/user-attachments/assets/779be8fd-58ac-43eb-9e0c-fb5bfcf5f0e8" />
